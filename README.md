@@ -2,4 +2,4 @@
 I will be posting some of my internship projects here. Mostly porjects will be python programmin related.
 
 I have added many programs like : 
-calculator, todolist, password generator and more
+calculator, todolist, password generator, RockPaperScissors game and more
